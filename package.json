@@ -19,11 +19,14 @@
   },
   "files": [
     "*.md",
-    "demo",
-    "es6",
-    "lib",
-    "umd",
-    "src"
+    "es6/*",
+    "es6/*/**",
+    "lib/*",
+    "lib/*/**",
+    "umd/*",
+    "umd/*/**",
+    "src/*",
+    "src/*/**"
   ],
   "repository": "git@github.com:bodyshopbidsdotcom/ajax-utils.git",
   "author": "Snapsheet Inc.",
