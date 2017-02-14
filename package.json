@@ -5,7 +5,7 @@
   "jsnext:main": "es6/index",
   "engines": {
     "node": ">=6.9.x",
-    "yarn": ">=0.19.0"
+    "yarn": ">=0.18.0"
   },
   "scripts": {
     "build": "npm run build-cjs && npm run build-es6 && rimraf umd && npm run build-umd && npm run build-min",
