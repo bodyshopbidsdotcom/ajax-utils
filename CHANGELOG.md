@@ -1,3 +1,6 @@
+# 1.0.3
+Add field to ApiError for passing additional data
+
 # 1.0.2
 Change min yarn version from 0.19.0 to 0.18.0
 
