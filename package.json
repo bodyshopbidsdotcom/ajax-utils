@@ -1,6 +1,6 @@
 {
   "name": "snapsheet-ajax-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index",
   "jsnext:main": "es6/index",
   "engines": {
